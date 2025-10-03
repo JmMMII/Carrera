@@ -1,0 +1,668 @@
+C:\Users\Usuario\Desktop\PrograVa\Ada\CNSpringfield\obj\main.exe
+Incrementando  3
+Sensor  3 online.
+Sensor  2 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  1800
+Abriendo compuerta  3
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1800
+Abriendo compuerta  2
+¡¡Reactor  1 :temperatura superior a 1750C!!
+Abriendo compuerta  1
+Temperatura:  1750
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  1800
+Sensor  1 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1750
+Temperatura:  1700
+Temperatura:  1650
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  1800
+¡¡Reactor  3 :temperatura superior a 1750C!!
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Reactor  1 Temperatura:  1650
+Temperatura:  1600
+Temperatura:  1550
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  1800
+Reactor  1 Temperatura:  1550
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  3 online.
+Sensor  1 online.
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  1950
+Cerrando compuerta  1
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  2 Temperatura:  1800
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Incrementando  2
+Sensor  2 online.
+Reactor  2 Temperatura:  1950
+Sensor  1 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  3 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  1950
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  2 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  2 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  1950
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Incrementando  2
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Sensor  2 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  1950
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2100
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2100
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  2100
+Sensor  1 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1600
+Abriendo compuerta  1
+Temperatura:  1550
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  1 Temperatura:  1550
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  2100
+Sensor  3 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Cerrando compuerta  1
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  1 Temperatura:  1600
+Reactor  2 Temperatura:  2100
+Abriendo compuerta  1
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1550
+Temperatura:  1500
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+Sensor  1 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1550
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1450
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+Sensor  1 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Cerrando compuerta  1
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Sensor  1 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  2 online.
+Sensor  1 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+Reactor  1 Temperatura:  1600
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Abriendo compuerta  1
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1550
+Sensor  3 online.
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  2100
+Reactor  3 Temperatura:  1950
+Reactor  1 Temperatura:  1550
+¡¡Reactor  3 :temperatura superior a 1750C!!
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  1 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Cerrando compuerta  1
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Sensor  2 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2100
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2100
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1600
+Abriendo compuerta  1
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1550
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1550
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  3 online.
+Sensor  2 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  2100
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Cerrando compuerta  1
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  2 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  2100
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1600
+Abriendo compuerta  1
+Temperatura:  1550
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Sensor  2 online.
+Reactor  1 Temperatura:  1550
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  1 online.
+Reactor  1 Temperatura:  1450
+Cerrando compuerta  1
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Incrementando  2
+Sensor  1 online.
+Sensor  2 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  1950
+Reactor  2 Temperatura:  2250
+¡¡Reactor  3 :temperatura superior a 1750C!!
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2250
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Reactor  2 Temperatura:  2250
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  3 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  2250
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  1 online.
+Sensor  3 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2250
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  1 online.
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  1950
+Reactor  1 Temperatura:  1600
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2250
+Abriendo compuerta  1
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1550
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  1950
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2250
+Reactor  1 Temperatura:  1550
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Cerrando compuerta  1
+Sensor  2 online.
+Reactor  2 Temperatura:  2250
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  2 Temperatura:  2250
+Sensor  1 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  3 Temperatura:  1950
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  1 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2250
+Reactor  3 Temperatura:  1950
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  3
+Sensor  1 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  2100
+Sensor  2 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2250
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  2 Temperatura:  2250
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  2250
+Sensor  3 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2250
+Reactor  3 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  1 online.
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Sensor  1 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2250
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  2
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  2400
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  3 online.
+Sensor  2 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  2100
+Reactor  1 Temperatura:  1600
+Reactor  2 Temperatura:  2400
+Abriendo compuerta  1
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1550
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1550
+Temperatura:  1500
+Sensor  3 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Temperatura:  1450
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Cerrando compuerta  1
+Reactor  2 Temperatura:  2400
+Reactor  3 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  3 Temperatura:  2100
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Sensor  1 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2400
+Reactor  3 Temperatura:  2100
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Incrementando  3
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  2250
+Sensor  2 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  2 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Reactor  2 Temperatura:  2400
+Reactor  3 Temperatura:  2250
+¡¡Reactor  2 :temperatura superior a 1750C!!
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  1 online.
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+Reactor  3 Temperatura:  2250
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  2250
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Sensor  3 online.
+Sensor  1 online.
+Reactor  3 Temperatura:  2250
+Sensor  2 online.
+Reactor  1 Temperatura:  1450
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Incrementando  1
+Sensor  1 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1600
+Abriendo compuerta  1
+Reactor  3 Temperatura:  2250
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Sensor  2 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1550
+Sensor  2 online.
+Sensor  1 online.
+Sensor  3 online.
+Reactor  2 Temperatura:  2400
+Reactor  3 Temperatura:  2250
+Reactor  1 Temperatura:  1550
+¡¡Reactor  3 :temperatura superior a 1750C!!
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Temperatura:  1500
+Temperatura:  1450
+Sensor  2 online.
+Sensor  1 online.
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  3 online.
+Reactor  3 Temperatura:  2250
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  1 Temperatura:  1450
+Cerrando compuerta  1
+Sensor  3 online.
+Sensor  2 online.
+Reactor  3 Temperatura:  2250
+Sensor  1 online.
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2400
+Reactor  1 Temperatura:  1450
+¡¡Reactor  2 :temperatura superior a 1750C!!
+Sensor  1 online.
+Sensor  3 online.
+Reactor  1 Temperatura:  1450
+Sensor  2 online.
+Reactor  3 Temperatura:  2250
+¡¡Reactor  3 :temperatura superior a 1750C!!
+Reactor  2 Temperatura:  2400
+¡¡Reactor  2 :temperatura superior a 1750C!!

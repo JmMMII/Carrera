@@ -1,0 +1,1 @@
+central.adb:22:10: warning: potentially blocking operation in protected operation [enabled by default]

@@ -1,0 +1,149 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DELAY
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_PROTECTED_TYPES
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U central%b		central.adb		17c0621b NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+Z ada.real_time.delays%s  a-retide.adb		a-retide.ali
+W ada.real_time.timing_events%s  a-rttiev.adb	a-rttiev.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z system%s		system.ads		system.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W text_io%s		text_io.ads		text_io.ali
+
+U central%s		central.ads		1c494226 EE OO PF PK
+W ada%s			ada.ads			ada.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.timing_events%s  a-rttiev.adb	a-rttiev.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-finali.ads		20210520051128 bf4f806b ada.finalization%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-reatim.ads		20210520051128 0240fc73 ada.real_time%s
+D a-retide.ads		20210520051128 081cdaa4 ada.real_time.delays%s
+D a-rttiev.ads		20210520051128 22f35a33 ada.real_time.timing_events%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D central.ads		20231205191748 3cfae466 central%s
+D central.adb		20231205191212 2a3be8a5 central%b
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-c.ads		20210520051132 d9beded9 interfaces.c%s
+D i-cstrin.ads		20210520051132 341d0ddf interfaces.c.strings%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D system.ads		20210520051136 2ffa5114 system%s
+D s-atacco.ads		20210520051132 4c36d12f system.address_to_access_conversions%s
+D s-conca2.ads		20210520051132 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-finroo.ads		20210520051132 4ff27390 system.finalization_root%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-multip.ads		20210520051134 38ac9f73 system.multiprocessors%s
+D s-osinte.ads		20210520051128 97504df8 system.os_interface%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stausa.ads		20210520051134 017a0a05 system.stack_usage%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-tasinf.ads		20210520051128 601f6b72 system.task_info%s
+D s-taspri.ads		20210520051128 a1350802 system.task_primitives%s
+D s-taprop.ads		20210520051128 6eefbe12 system.task_primitives.operations%s
+D s-taskin.ads		20210520051128 88fba9ad system.tasking%s
+D s-taprob.ads		20210520051128 acd6094d system.tasking.protected_objects%s
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D s-win32.ads		20210520051136 15ac53fb system.win32%s
+D text_io.ads		20210520051136 21b2c898 text_io%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [incrementar central__reactor 8 17 none]
+G c Z s b [leer central__reactor 9 17 none]
+G c Z s b [reducir central__reactor 10 17 none]
+G c Z s b [abrir central__reactor 11 17 none]
+G c Z s b [cerrar central__reactor 12 17 none]
+G c Z s b [reactor__incrementarN central 8 7 none]
+G c Z s b [reactor__incrementarP central 8 7 none]
+G c Z s b [reactor__leerN central 9 7 none]
+G c Z s b [reactor__leerP central 9 7 none]
+G c Z s b [reactor__reducirN central 10 7 none]
+G c Z s b [reactor__reducirP central 10 7 none]
+G c Z s b [reactor__abrirN central 11 7 none]
+G c Z s b [reactor__abrirP central 11 7 none]
+G c Z s b [reactor__cerrarN central 12 7 none]
+G c Z s b [reactor__cerrarP central 12 7 none]
+G c Z s s [reactorVIP central 6 4 none]
+X 1 ada.ads
+16K9*Ada 20e8 15|1r6 2r6 5r19 10r40 16r13 16|4r6 5r6 6r5 25r40 31r10 38r10
+. 44r10
+X 5 a-reatim.ads
+39K13*Real_Time 185e18 15|1w10 2r10 5r23 10r44 16r17 16|4w10 5r10 6r9 25r44
+. 31r14 38r14 44r14
+49O9*Time<duration> 15|16r27
+54O9*Time_Span<duration> 16|18r21 26r20 35r20
+61V13*Clock{49O9} 16|20s17 30s16 37s16 43s16
+65V14*"+"{49O9} 16|20s23 30s22 37s22
+119V13*Milliseconds{54O9} 16|18s32
+122V13*Seconds{54O9} 16|26s31 35s31
+X 7 a-rttiev.ads
+38K23*Timing_Events 81e32 15|2w20 5r33 10r54 16|5w20 25r54 31r24 38r24 44r24
+40R9*Timing_Event<3|50R9> 75e14 15|5r47 10r68 16|25r68
+45U14*Set_Handler 16|31s38 38s38 44s38
+X 13 a-textio.ads
+506U14*Put_Line 16|29s10
+X 15 central.ads
+4K9*Central 19l5 19e12 16|8b14 49l5 49t12
+5r4*jitterControl{7|40R9} 16|31m50 31r50 38m50 38r50 44m50 44r50
+6W19*Reactor 15E7 17l8 17e15 16|10b19 47l8 47t15
+8U17 incrementar 16|12b17 15l11 15t22
+9U17 leer 9<22 16|17b17 23l11 23t15
+9i22 valor{integer} 16|17b22 21m10
+10U17 reducir 10=26 16|25b17 31r71 32l11 32t18 38r69
+10r26 event{7|40R9} 16|25b26
+11U17 abrir 16|34b17 39l11 39t16
+12U17 cerrar 16|41b17 45l11 45t17
+15i7 temp{integer} 16|14r10 14r18 21r17 28r10 28r18 29r35
+16o7 hora{5|49O9} 16|20r10 22r22 30r10 31r65 37r10 38r64 43r10 44r64
+X 16 central.adb
+18o10 intervalo{5|54O9} 20r25
+26o10 intervalo{5|54O9} 30r24
+35o10 intervalo{5|54O9} 37r24
+X 37 s-stausa.ads
+208U14*Initialize 209i<c,__gnat_stack_usage_initialize>22
+273U14*Output_Results 277i<c,__gnat_stack_usage_output_results>22
+X 50 text_io.ads
+24K9*Text_IO=24:29 16|1w6 2r5
+
